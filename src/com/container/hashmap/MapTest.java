@@ -1,4 +1,4 @@
-package com.container.hashmap;
+package src.com.container.hashmap;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -15,5 +15,6 @@ public class MapTest {
         System.out.println("li".hashCode());
         System.out.println(a - 1);
         System.out.println("测试提交");
+        System.out.println("测试中文乱码");
     }
 }
