@@ -14,5 +14,6 @@ public class MapTest {
         System.out.println(i ^ b);
         System.out.println("li".hashCode());
         System.out.println(a - 1);
+        System.out.println("≤‚ ‘Ã·Ωª");
     }
 }
