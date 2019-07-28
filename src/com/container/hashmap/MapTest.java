@@ -1,4 +1,4 @@
-package src.com.container.hashmap;
+package com.container.hashmap;
 
 import java.util.HashMap;
 import java.util.Map;
